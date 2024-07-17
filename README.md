@@ -4,7 +4,7 @@
 I am Eason at **[Deepseek](https://www.deepseek.com/)**, seeking top talents to collaborate on Deepseek-X, our cutting-edge large language and multimodal models, aimed at unraveling the mysteries of AGI with curiosity.
 
 🌏 Global Hiring:
-- **LLM Research Scientist/Engineer** ( _Pretraining/ Alignment/ Code&Math/ Multimodal/ Data&Crawling..._ )
+- **LLM Research Scientist/Engineer** ( _Pretraining/ Alignment/ Code&Math/ Multimodal..._ )
 - **ML System Research Scientist/Engineer**
 - **AI Product** ( _Full Stack Dev/ Android/ iOS/ UI/ UX/ PM..._ )
 
