@@ -1,12 +1,18 @@
 ## ABOUT ME
 <h2>👋 Hi, welcome to my github</h2>
 
-I am Eason at **_[Deepseek](https://www.deepseek.com/)_**, looking for top talents to work on Deepseek-X, our cutting-edge large language and multimodal models aimed at unravel the mystery of AGI with curiosity.
+I am Eason at **[Deepseek](https://www.deepseek.com/)**, seeking top talents to collaborate on Deepseek-X, our cutting-edge large language and multimodal models, aimed at unraveling the mysteries of AGI with curiosity.
+
+🌏 Global Hiring:
+- **LLM Research Scientist/Engineer** ( _Pretraining/ Alignment/ Code&Math/ Multimodal/ Data&Crawling..._ )
+- **ML System Research Scientist/Engineer**
+- **AI Product** ( _Full Stack Dev/ Android/ iOS/ UI/ UX/ PM..._ )
+
 
 
 <h2>⚡️ Where to find me</h2>
 
-If you're interested in **_Deepseek_**, **_LLM_**, or any other related to **_AGI_**, please don't hesitate to contact me immediately!
+If you are interested in **Deepseek**, **LLMs**, or any other aspects related to **AGI**, please don't hesitate to contact me immediately!
 
 - **Email:** yi.shao@high-flyer.cn
 - **Wechat:** SEasonest0312
