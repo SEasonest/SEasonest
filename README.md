@@ -14,7 +14,7 @@ I am Eason at **[Deepseek](https://www.deepseek.com/)**, seeking top talents to 
 
 If you are interested in **Deepseek**, **LLMs**, or any other aspects related to **AGI**, please don't hesitate to contact me immediately!
 
-- **Email:** yi.shao@high-flyer.cn
+- **Email:** yi.shao@deepseek.com
 - **Wechat:** SEasonest0312
 
 <p>
